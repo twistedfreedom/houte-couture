@@ -1,0 +1,16 @@
+/* Your Website Styles */
+
+
+/* Show Grid */
+.showgrid {
+	background: url("../img/grid-bg.png") repeat-y;
+}
+h1{
+	font-family: 'Homemade Apple', cursive;
+}
+h3{	font-family: 'Homemade Apple', cursive;
+}
+p{	
+	font-family: 'Lato', sans-serif;
+	line-height: 15px;
+}
